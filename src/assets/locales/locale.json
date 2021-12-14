@@ -1,0 +1,10 @@
+{
+  "en": {
+    "version": "1",
+    "hello_world": "Hello world"
+  },
+  "ru": {
+    "version": "1",
+    "hello_world": "Всем привет"
+  }
+}
